@@ -1,2 +1,2 @@
-# SD Regularization Images Style Dreambooth
+# SD Regularization Images Illustration Dreambooth
  
